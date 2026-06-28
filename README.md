@@ -214,5 +214,7 @@ After completing this project, you will understand:
 ## Author
 
 **Name:** Deekshitha U
+
 **Course:** B.Tech – Artificial Intelligence and Data Science
+
 **Project:** Sampling Techniques using Python
